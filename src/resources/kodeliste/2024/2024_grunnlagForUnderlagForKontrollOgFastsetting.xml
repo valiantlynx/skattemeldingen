@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><kodeliste xmlns="urn:no:skatteetaten:kodelistebibliotek:domain:v1">
-  <tekniskNavn>2023_grunnlagIUnderlagForSkjoennsfastsetting</tekniskNavn>
+  <tekniskNavn>2024_grunnlagForUnderlagForKontrollOgFastsetting</tekniskNavn>
   <beskrivelse>
     <spraakTekst>
       <tekst>Kodeliste over alle tekniske navn som hentes som kilde til sammenstilling av underlag for skjønnsfastsetting.</tekst>
@@ -1753,10 +1753,10 @@
     </kodetillegg>
   </kode>
   <kode>
-    <tekniskNavn>skattepliktigesLaanMedMedlaantaker</tekniskNavn>
+    <tekniskNavn>skattepliktigesAndelAvLaan</tekniskNavn>
     <visningsnavn>
       <spraakTekst>
-        <tekst>Skattepliktiges medlåntaker</tekst>
+        <tekst>Skattepliktiges andel av lån</tekst>
         <spraak>nb_NO</spraak>
       </spraakTekst>
     </visningsnavn>
