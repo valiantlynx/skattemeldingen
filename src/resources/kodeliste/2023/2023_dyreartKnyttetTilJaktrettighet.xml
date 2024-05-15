@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><kodeliste xmlns="urn:no:skatteetaten:kodelistebibliotek:domain:v1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kodeliste xmlns="urn:no:skatteetaten:informasjonsforvaltning:kodeliste:v2">
+  <identifikator>f4a7cad4-d3b2-4127-8da3-fdb772d31b21</identifikator>
   <tekniskNavn>2023_dyreartKnyttetTilJaktrettighet</tekniskNavn>
+  <status>aktiv</status>
+  <versjonsnummer>1</versjonsnummer>
+  <sistEndret>2024-04-30T09:25:03.000+02:00</sistEndret>
+  <sistEndretAv>b19lav</sistEndretAv>
+  <ansvarligOmraade>skattemeldingForFormuesOgInntektsskatt</ansvarligOmraade>
   <beskrivelse>
     <spraakTekst>
       <tekst>Kodeliste over dyreart knyttet til Jaktrettighet</tekst>
@@ -27,7 +34,7 @@
       </spraakTekst>
     </visningsnavn>
     <kodetillegg>
-      <satsINorskeKronerPerFelteDyr>9300</satsINorskeKronerPerFelteDyr>
+      <satsINorskeKronerPerFelteDyr>10600</satsINorskeKronerPerFelteDyr>
     </kodetillegg>
   </kode>
   <kode>
@@ -51,7 +58,7 @@
       </spraakTekst>
     </visningsnavn>
     <kodetillegg>
-      <satsINorskeKronerPerFelteDyr>7300</satsINorskeKronerPerFelteDyr>
+      <satsINorskeKronerPerFelteDyr>8300</satsINorskeKronerPerFelteDyr>
     </kodetillegg>
   </kode>
   <kode>
@@ -75,7 +82,7 @@
       </spraakTekst>
     </visningsnavn>
     <kodetillegg>
-      <satsINorskeKronerPerFelteDyr>3100</satsINorskeKronerPerFelteDyr>
+      <satsINorskeKronerPerFelteDyr>3500</satsINorskeKronerPerFelteDyr>
     </kodetillegg>
   </kode>
   <kode>
@@ -99,7 +106,7 @@
       </spraakTekst>
     </visningsnavn>
     <kodetillegg>
-      <satsINorskeKronerPerFelteDyr>1700</satsINorskeKronerPerFelteDyr>
+      <satsINorskeKronerPerFelteDyr>2000</satsINorskeKronerPerFelteDyr>
     </kodetillegg>
   </kode>
   <kode>
@@ -123,8 +130,7 @@
       </spraakTekst>
     </visningsnavn>
     <kodetillegg>
-      <satsINorskeKronerPerFelteDyr>3200</satsINorskeKronerPerFelteDyr>
+      <satsINorskeKronerPerFelteDyr>3600</satsINorskeKronerPerFelteDyr>
     </kodetillegg>
   </kode>
-  <lokaltForvaltet>true</lokaltForvaltet>
 </kodeliste>
